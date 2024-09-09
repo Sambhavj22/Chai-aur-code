@@ -11,7 +11,7 @@ app.get('/',(req,res)=>{
 
 app.listen(process.env,port,()=>{
     
-    console.log('Example app listening on ${port}')
+    console.log('Example app listening the on ${port}')
 });
  
 console.log("chai aur code");
